@@ -7,6 +7,8 @@
 
 An index of repositories that document **physical builds** — the bill of materials, sourcing, wiring and enclosure decisions, and firmware plan for a piece of hardware. These are blueprints: enough to order the parts and assemble the thing, whether or not it has actually been built yet.
 
+**Last Updated:** October 2026
+
 See [SCOPE.md](SCOPE.md) for what belongs here and how this index relates to the neighbouring ones.
 
 ## Sensors & Monitoring
@@ -19,7 +21,7 @@ See [SCOPE.md](SCOPE.md) for what belongs here and how this index relates to the
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Claude Macropad V2** | Dedicated macropad for driving Claude Code (approve, stop, new session, transcript navigation) with a host-driven status LED wired to Claude Code hooks. Off-the-shelf and custom ESP32 / RP2040 build paths | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Macropad-V2) |
+| **Claude Pad** | Dedicated macropad for driving Claude Code (approve, stop, new session, transcript navigation) with a host-driven status LED wired to Claude Code hooks. Off-the-shelf and custom ESP32 / RP2040 build paths | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Pad) |
 
 ## Infrastructure & Appliances
 
